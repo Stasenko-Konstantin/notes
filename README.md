@@ -1,12 +1,7 @@
 # заметки
 
-[Содержание](src/SUMMARY.md)
-
 мои пометки в квадратных скобках (если файл не чисто мой)
 
-локально:
-```
-git clone https://github.com/Stasenko-Konstantin/notes.git
-cd notes
-python3 open.py
-```
+- [политика и философия](политика%20и%20философия/README.md)
+- [теоркат](теоркат/README.md)
+- [языки и все такое](языки%20и%20все%20такое/README.md)
